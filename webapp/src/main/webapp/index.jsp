@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1 align="center">New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -8,8 +8,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="phone"><b>Enter phone</b></label>
-    <input type="text" placeholder="Enter phone number" name="phone" id="phone" required>
+    <label for="Phone"><b>Enter Phone</b></label>
+    <input type="text" placeholder="Enter Phone number" name="Phone" id="phone" required>
     <br>
 
     <label for="email"><b>Enter Email id</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1 align="center"> Thankyou, Happy Learning </h1>
 
   
 </form>
