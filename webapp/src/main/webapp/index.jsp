@@ -12,11 +12,11 @@
     <input type="text" placeholder="Enter Phone Number" name="Phone" id="Phone" required>
     <br>
 
-    <label for="Email"><b>Enter Email id</b></label>
+    <label for="Email"><b>Enter Email Id</b></label>
     <input type="text" placeholder="Enter Email Id" name="Email" id="Email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter Password</b></label>
     <input type="Enter password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
