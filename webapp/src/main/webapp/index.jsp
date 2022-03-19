@@ -11,6 +11,10 @@
     <label for="Phone"><b>Enter Phone</b></label>
     <input type="text" placeholder="Enter Phone Number" name="Phone" id="Phone" required>
     <br>
+	
+    <label for="Phone"><b>Enter Alternate Phone</b></label>
+    <input type="text" placeholder="Enter Alternate Phone Number" name="Phone" id="Phone" required>
+    <br>
 
     <label for="Email"><b>Enter Email Id</b></label>
     <input type="text" placeholder="Enter Email Id" name="Email" id="Email" required>
